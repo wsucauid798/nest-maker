@@ -125,12 +125,12 @@ export const STAGES: Stage[] = [
         imageSrc: img("twisted-reeds"),
       },
       {
-        id: "rootlets",
+        id: "fine-rootlets",
         name: "Fine rootlets",
         description: "Dark, hairlike, knotted at the edge.",
         prompt:
           "fine dark rootlets knotting the rim, long trailing root-threads gripping the support",
-        imageSrc: img("rootlets"),
+        imageSrc: img("fine-rootlets"),
       },
       {
         id: "bark-strips",
@@ -215,12 +215,12 @@ export const STAGES: Stage[] = [
         imageSrc: img("seed-husks"),
       },
       {
-        id: "bark-flakes",
+        id: "pine-bark-flakes",
         name: "Pine bark flakes",
         description: "Reddish, jigsaw like scales.",
         prompt:
           "reddish jigsaw-like pine bark flakes pressed onto the outside, irregular and warm-toned",
-        imageSrc: img("bark-flakes"),
+        imageSrc: img("pine-bark-flakes"),
       },
     ],
   },
